@@ -53,4 +53,5 @@ margin: 10px
 
 .small {
 	display: block
+	-webkit-margin: 1em;
 }
