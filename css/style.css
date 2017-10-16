@@ -60,7 +60,7 @@ img {
     padding: 1px;
 	}
 
-#press img :hover {
+img:hover {
 	border: 5px #ccc solid;
 	padding: 1px;
 	color: rgb(115, 125, 124);
