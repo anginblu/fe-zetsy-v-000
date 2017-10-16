@@ -44,8 +44,8 @@ h2 {
 }
 
 .box {
-	padding: 20px
-	padding-color: rgb(115, 125, 124)
+background: rgb(115, 125, 124);
+margin: 10px
 }
 .box:hover {
   transition: background 0.2s ease;
