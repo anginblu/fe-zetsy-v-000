@@ -50,6 +50,11 @@ a:-webkit-any-link {
     text-decoration-color: initial;
 }
 
+img {
+    border: 5px #ccc solid;
+    padding: 1px;
+	}
+
 #press img {
     border: 5px #ccc solid;
     padding: 1px;
