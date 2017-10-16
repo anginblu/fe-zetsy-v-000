@@ -60,11 +60,9 @@ img {
     padding: 1px;
 	}
 
-.small {
+footer {
 	display: block;
 	-webkit-margin: 1em;
-}
-footer {
 	font-size: .8em;
 	display: block;
 	text-align: right;
