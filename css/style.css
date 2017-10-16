@@ -21,7 +21,7 @@ body {
 /* Write all remaining styles here */
 a {
 	color: rgb(55, 135, 186);
-	
+
 }
 h1 {
 	font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
@@ -43,6 +43,6 @@ h2 {
 	color: rgb(115, 125, 124);
 }
 
-div:hover {
+a img:hover {
   background-color: green;
 }
