@@ -60,6 +60,9 @@ img {
     padding: 1px;
 	}
 
+#press img :hover {
+	
+}
 footer {
 	display: block;
 	-webkit-margin: 1em;
