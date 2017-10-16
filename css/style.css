@@ -53,6 +53,10 @@ a:-webkit-any-link {
     text-decoration-color: initial;
 }
 
+#press img {
+    border: 5px #ccc solid;
+    padding: 1px;
+
 .small {
 	display: block;
 	-webkit-margin: 1em;
