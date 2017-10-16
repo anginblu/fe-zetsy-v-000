@@ -19,7 +19,7 @@ body {
 }
 
 /* Write all remaining styles here */
-p a {
+#about a {
 	color: #1783bb;
 	text-decoration: none;
 
