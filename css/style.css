@@ -19,7 +19,7 @@ body {
 }
 
 /* Write all remaining styles here */
-#featured a {
+p a {
 	color: #1783bb;
 	text-decoration: none;
 
