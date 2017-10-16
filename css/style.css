@@ -51,6 +51,15 @@ margin: 10px
 	background: rgb(116, 128, 124)
 }
 
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: auto;
+    text-decoration: underline;
+    text-decoration-line: underline;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}
+
 .small {
 	display: block;
 	-webkit-margin: 1em;
