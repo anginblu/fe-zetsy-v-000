@@ -27,7 +27,7 @@ h1 {
 	font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
 	font-size: 24px;
 	font-style: bold;
-	font-variant: normal;
+	font-variant: bold;
 	font-weight: 500;
 	line-height: 26.4px;
 	color: rgb(155, 175, 165);
@@ -36,8 +36,8 @@ h1 {
 h2 {
 	font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
 	font-size: 24px;
-	font-style: normal;
-	font-variant: normal;
+	font-style: bold;
+	font-variant: bold;
 	font-weight: 500;
 	line-height: 15.4px;
 	color: rgb(115, 125, 124);
