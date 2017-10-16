@@ -55,3 +55,6 @@ margin: 10px
 	display: block;
 	-webkit-margin: 1em;
 }
+footer {
+	text-align: right;
+}
