@@ -43,13 +43,6 @@ h2 {
 	color: rgb(115, 125, 124);
 }
 
-.box {
-background: rgb(115, 125, 124);
-margin: 10px
-}
-.box:hover {
-	background: rgb(116, 128, 124)
-}
 
 a:-webkit-any-link {
     color: -webkit-link;
