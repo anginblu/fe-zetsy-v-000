@@ -36,8 +36,7 @@ h1 {
 h2 {
 	display: block;
 	font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
-	font-size: 24px;
-	font-style: bold;
+	font-size: 2em;
 	color: rgb(115, 125, 124);
 }
 
