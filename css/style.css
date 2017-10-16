@@ -43,7 +43,7 @@ h2 {
 	color: rgb(115, 125, 124);
 }
 
-a img:hover {
+a:hover {
   transition: background 0.2s ease;
 	background color: rgb(115, 125, 124) 
 	padding: 20px
