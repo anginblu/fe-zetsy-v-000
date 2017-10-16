@@ -44,5 +44,5 @@ h2 {
 }
 
 a img:hover {
-  background-color: green;
+  transition: background 0.2s ease, padding 0.8s linear;
 }
