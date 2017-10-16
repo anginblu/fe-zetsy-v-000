@@ -42,3 +42,7 @@ h2 {
 	line-height: 15.4px;
 	color: rgb(115, 125, 124);
 }
+
+div:hover {
+  background-color: green;
+}
