@@ -19,8 +19,9 @@ body {
 }
 
 /* Write all remaining styles here */
-a {
-	color: rgb(55, 135, 186);
+#featured a {
+	color: #1783bb;
+	text-decoration: none;
 
 }
 h1 {
