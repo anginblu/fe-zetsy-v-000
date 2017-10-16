@@ -48,7 +48,6 @@ background: rgb(115, 125, 124);
 margin: 10px
 }
 .box:hover {
-  transition: background 0.2s ease;
 	background: rgb(116, 128, 124)
 	padding: 20px
 }
